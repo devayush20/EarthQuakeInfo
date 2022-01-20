@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EarthquakeInfo</string>
+    <string name="_7_0">7.0</string>
+    <string name="san_fransisco">San Fransisco</string>
+    <string name="_20_jan_2016">20 Jan, 2016</string>
+    <string name="time">time</string>
+    <string name="default_offset">Near the</string>
+    <string name="placeholder_loc1">30km S of</string>
+</resources>
